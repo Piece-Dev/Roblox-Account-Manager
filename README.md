@@ -1,6 +1,6 @@
 ### Download Instructions
 
-To install, click the **[Download Latest](https://github.com/Piece-Dev/Roblox-Account-Manager/releases/download/v3.0/RobloxAccountManager.exe)** button to download the latest versoion of RobloxAccountManager file. 
+To install, click the **[Download Latest](https://github.com/Piece-Dev/Roblox-Account-Manager/releases/download/v3.1/RobloxAccountManager.exe)** button to download the latest versoion of RobloxAccountManager file. 
 
 
 
